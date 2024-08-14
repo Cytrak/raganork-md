@@ -47,7 +47,7 @@
 3. git clone https://github.com/CytraK/raganork-md && cd raganork-md
 4. yarn install --ignore-engines --network-concurrency 1
 5. vi config.env
-6. Enter your session there in format 'SESSION=Raganork~fc8be09cf7e3f744006fb46e67f26b4c:702b4a2b437149344d54493d'
+6.'SESSION=Raganork~fc8be09cf7e3f744006fb46e67f26b4c:702b4a2b437149344d54493d'
 ```
 
 <div align="center">
