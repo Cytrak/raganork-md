@@ -48,10 +48,6 @@
 4. yarn install --ignore-engines --network-concurrency 1
 5. vi config.env
 6. Enter your session there in format 'SESSION=Raganork~fc8be09cf7e3f744006fb46e67f26b4c:702b4a2b437149344d54493d'
-7. Press ctrl+c, then type ':wq' and press enter
-8. npm start
-
-Now the bot will start working
 ```
 
 <div align="center">
